@@ -12,4 +12,4 @@ mi = now.minute
 ss = now.second
 
 # Afficher les informations dans un seul print
-print(f"Date et heure actuelles: {mm}/{dd}/{yyyy} {hour}:{mi}:{ss}")
+print(f"Date et heure actuelles: {mm}/{dd}/{yyyy} {hour}:{mi}:{ss} test ok")
